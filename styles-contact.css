@@ -163,7 +163,7 @@ body {
 	/* responsiveness */
 	padding: 1%;
 	margin: 50px auto;
-	background: rgba(198, 210, 212, 0.75);
+	background: rgba(198, 210, 212, 0.9);
 	/*this uses opacity of 75% for the background color*/
 	text-align: center;
 	/*border: 4px dashed white;*/
@@ -191,7 +191,7 @@ h1 {
 	/*underlines text*/
 	font-size: 2em;
 	margin: 0px auto 20px auto;
-	color: darkred;
+	color: #bf0404;
 }
 
 h2 {
@@ -201,7 +201,7 @@ h2 {
 	font-style: normal;
 	font-size: 1.5em;
 	line-height: 1.4;
-	color: darkred;
+	color: #bf0404;
 	padding: 0px 0px;
 	margin: 0px auto 15px auto;
 }
@@ -213,7 +213,7 @@ p {
 	font-style: normal;
 	font-size: 1.2em;
 	line-height: 1.6;
-	color: darkred;
+	color: #bf0404;
 
 }
 
@@ -250,7 +250,7 @@ nav a {
 }
 
 a {
-	color: darkred;
+	color: #bf0404;
 	text-decoration: none;
 	/* This
 	removes the underline */
